@@ -172,7 +172,7 @@ The project implements multi-modal feature extraction combining several classica
 | **Test Accuracy** | 86.2% (R²: 0.9025) | 83.65% |
 | **Model Used** | Polynomial Regression | Logistic Regression + PCA |
 | **Domain** | Healthcare Economics | Medical Imaging |
-| **Key Challenge** | Non-linear relationships | -- |
+| **Key Challenge** | Non-linear relationships | Class Overlapping |
 
 ---
 
